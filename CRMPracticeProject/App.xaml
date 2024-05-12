@@ -1,0 +1,47 @@
+﻿<Application x:Class="CRMPracticeProject.App"
+             xmlns:hc="https://handyorg.github.io/handycontrol"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CRMPracticeProject"
+             StartupUri="Forms/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+
+                <hc:ThemeResources/>
+                <hc:Theme/>
+                <!-- Other merged dictionaries here -->
+            </ResourceDictionary.MergedDictionaries>
+            <Style x:Key="TxBlueMedium" TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="WeblogmaYekan"/>
+                <Setter Property="FontWeight" Value="Medium"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="#001d3d"/>
+            </Style>
+            <Style x:Key="TxBlueBold" TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="WeblogmaYekan"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="#001d3d"/>
+            </Style>
+
+            <Style x:Key="TxWhiteMedium" TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="WeblogmaYekan"/>
+                <Setter Property="FontWeight" Value="Medium"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="#e5e5e5"/>
+            </Style>
+
+
+            <Style x:Key="TxWhiteBold" TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="WeblogmaYekan"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="Foreground" Value="#e5e5e5"/>
+
+            </Style>
+            
+            <!-- Other app resources here -->
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
