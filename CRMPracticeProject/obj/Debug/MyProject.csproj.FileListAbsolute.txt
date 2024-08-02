@@ -1,8 +1,0 @@
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\Forms\MainWindow.g.cs
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\App.g.cs
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\CRMPracticeProject_MarkupCompile.cache
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\CRMPracticeProject_MarkupCompile.lref
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\CRMPracticeProject.exe
-C:\Users\ERFAN\Desktop\Projects\CRMPracticeProject\CRMPracticeProject\obj\Debug\CRMPracticeProject.pdb
